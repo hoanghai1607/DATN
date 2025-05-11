@@ -1,0 +1,33 @@
+.content-wrapper {
+}
+.large {
+  margin-top: 10px;
+  height: 40px;
+  padding: 5px 0;
+  img {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 10%;
+    margin-left: 5px;
+  }
+  span {
+    align-items: center;
+    font-weight: bold;
+    min-height: 20px;
+    overflow: hidden;
+    color: #2f405f;
+    padding: 0 4px;
+    margin: 4px 0 4px 4px;
+  }
+}
+.small {
+  margin-top: 10px;
+  color: rgba(9, 30, 66, 0.66);
+  .icon-trello {
+    margin-left: 2%;
+  }
+  span {
+    font-weight: 400 !important;
+  }
+}

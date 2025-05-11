@@ -1,0 +1,241 @@
+$gap: 10px;
+$board-bg-color: #0079bf;
+$column-header-height : 36px;
+$column-footer-height : 36px;
+
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing : antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.3em;
+    font-size: 16px;
+    height: 100vh;
+}
+.trello-master{
+    height: 100vh;
+    display: gird;
+    grid-template-rows: 40px 50px 1fr;
+    line-height:1.3em;
+    // background-color: $board-bg-color; 
+    background-position: center;
+    // position: relative;
+    z-index: 999;
+    .board-columns {
+        display : flex;
+        margin: 0px $gap $gap;
+        overflow-x: auto;
+        padding-top: 30px;
+        &::-webkit-scrollbar {
+            -webkit-appearance: none;
+        }
+
+        &::-webkit-scrollbar:horizontal {
+           height: 11px;
+        }
+          &::-webkit-scrollbar-thumb {
+              background:  rgba(255,255,255,0.24);
+              border-radius: 5px solid  #ebecf0;
+          }
+            .column {
+                position: relative;
+                flex : 0 0 auto;
+                width : 300px;
+                height: calc(100% - #{$gap});
+                margin-left: 10px;
+
+             >* {
+            background-color: #f2f2f3;
+            color          :     #333;
+            padding             : 0 8px;
+           }
+           header {
+            padding-left: 10px;
+            height: 36рх;
+            line-height : 36px;
+            font-size : 16px;
+            font-weight : bold;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            cursor: pointer;
+           }
+           footer {
+            padding-left: 15px;
+            height: 36рх;
+            line-height : 36px;
+            font-size : 16px;
+            font-weight : bold;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+            color: #888;
+            .footer-action{
+                padding: 3px 10px 10px;
+                border-top: 1px solid rgb(205, 205, 205);
+                cursor: pointer;
+                .bg_fill{
+                    // margin: 5px;
+                    transition: 0.3s ease-in;
+                    padding: 0px 5px 0 10px;
+                    &:hover{
+                        background: rgba(0,0,0,0.1);
+                        border-radius: 3px;
+                    }
+                }
+            }
+        }
+
+
+           ul.boxBar {
+            list-style-type: none;
+            margin : 0;
+            max-height : calc(95vh - #{$column-header-height} - #{$column-footer-height});
+            overflow-y: auto;
+
+            &::-webkit-scrollbar {
+                -webkit-appearance: none;
+            }
+
+            &::-webkit-scrollbar:vertical {
+               width: 16px;
+            }
+              &::-webkit-scrollbar-thumb {
+                  background: darken($color: #ebecf0, $amount: 15);
+                  border: 4px solid transparent;
+                  border-radius: 8px;
+                  background-clip: padding-box;
+
+              }
+          } 
+          li{
+              background: white;
+              padding: $gap;
+              border-radius: 5px;
+              box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+              margin-bottom: $gap;
+              cursor: pointer;
+          } 
+          
+          img{
+                display: block;
+                width : calc(100% + 2 * #{$gap});
+
+                margin: -$gap 0 $gap (-$gap);
+                border-top-left-radius: 5px;
+                border-top-right-radius: 5px;
+          }
+                        
+         }
+    }
+}
+.card-ghost {
+    transition: transform 0.18s ease;
+    transform : rotateZ(5deg)
+ }
+ .card-ghost-drop {
+    transition: transform 0.18s ease-in-out;
+    transform : rotateZ(0deg)
+ }
+ .card-drop-preview {
+    background-color: Orgba(150, 150, 200, 0.1);
+    border: 1px dashed #abc;
+    margin: 5px;
+ }
+
+ .ant-modal-close-x {
+    width: 30px;
+    height: 30px;
+    background: #ebecfe;
+    span{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 6px;
+    }
+ }
+
+ .anticon-close{
+     padding: 5px 10px;
+     transform: translateY(-3px);
+ }
+
+ .column-drop-preview {
+    background-color: Orgba(150, 150, 200, 0.1);
+    border: 1px dashed #abc;
+    margin: 5px 45px 5px 5px;
+ }
+
+ .icon_plus span{
+     transform: translateY(-3px);
+     margin-right: 5px;
+ }
+
+ .anticon-align-right{
+     position: absolute;
+     top: 10px;
+     right: 10px;
+ }
+
+ .add-new-list{
+    min-width : 300px;
+    height: 37px;
+     margin-left: 10px;
+     background: rgba(233, 233, 239, 0.9);
+     padding: 10px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+     font-family: Arial, Helvetica, sans-serif;
+     transition: 0.2s ease-in;
+     &:hover{
+        background: rgba(46, 42, 42, 0.7);
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        cursor: pointer;
+        color: white;
+    }
+    .bg_fill{
+        width: 100%;
+    }
+ }
+
+ .add-content-list{
+     min-width: 300px;
+     margin-left: 10px;
+        padding: 5px;
+     background: rgba(233, 233, 239, 0.9);
+     .gr_biit{
+         margin-top: 5px;
+         
+         button{
+        
+         }
+     }
+ }
+
+ .customize-input-col{
+    padding: 5px 10px;
+     height: 30px;
+     border: none;
+     outline: none;
+     border-radius: 3px;
+     background-color: #f2f2f3;
+     &:focus{
+         background-color: white;
+     }
+ }
+
+ .add-content-card{
+     padding-bottom: 5px;
+    .gr_biit{
+        margin-top: 5px;
+    }
+ }
+
+
+.user-card{
+    display: flex;justify-content: end;
+    img{
+        margin: 0 !important;
+    }
+}

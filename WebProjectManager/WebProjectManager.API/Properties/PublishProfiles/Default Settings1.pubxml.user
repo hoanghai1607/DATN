@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxzzz/Fq2zEerUcwhVfAZIwAAAAACAAAAAAAQZgAAAAEAACAAAADcwkP9XVgV/hwgWp9pyXVLnOUkOJUrz+/5825Go10tRAAAAAAOgAAAAAIAACAAAAAUpZ6NEn4EmRiTikfdC5x2BFP7IwSlUc0EbNajVUbr/iAAAAAVgRIytCD1+Bb87xXl3z/X/5b2cBQTgJtNe0GFlOf/JkAAAADKJ3YXA23zCWd/cbQnxfcGl3meQ5HpS84SeNzptjxmzq7lG/WCq4McjOJADRqKsFQ28ezcHfj2gsuxplbPHPvl</EncryptedPassword>
+    <History>True|2022-04-12T01:58:59.7699742Z;True|2022-04-12T08:47:01.0295736+07:00;True|2022-04-12T00:16:16.1384564+07:00;True|2022-04-11T17:38:34.8961140+07:00;True|2022-04-09T16:03:16.8487811+07:00;True|2022-04-07T02:58:32.9346155+07:00;True|2022-04-07T02:51:31.6890530+07:00;True|2022-04-07T02:33:45.0251856+07:00;True|2022-04-07T02:26:42.1980687+07:00;True|2022-04-07T00:28:32.2255798+07:00;True|2022-04-06T23:02:33.3135716+07:00;False|2022-04-06T22:51:48.4851547+07:00;False|2022-04-06T13:14:09.7288279+07:00;False|2022-04-06T13:11:18.3812010+07:00;False|2022-04-06T13:09:13.5412809+07:00;False|2022-04-06T13:08:07.6522639+07:00;False|2022-04-06T13:07:32.5272352+07:00;False|2022-04-06T13:07:15.3509102+07:00;False|2022-04-06T13:06:18.4966125+07:00;True|2022-04-06T02:34:02.6017014+07:00;True|2022-04-05T17:52:25.1373042+07:00;True|2022-04-05T17:45:47.6460318+07:00;True|2022-04-05T01:11:24.6063397+07:00;True|2022-04-05T00:26:35.3356811+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a84cde_09042022%3bUser Id=db_a84cde_09042022_admin%3bPassword=Abc%4012345</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

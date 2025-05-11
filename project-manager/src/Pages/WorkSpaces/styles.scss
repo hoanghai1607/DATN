@@ -1,0 +1,39 @@
+.main-content-container {
+  margin-top: 70px;
+
+  .work-space-main-content {
+    margin-top: 2%;
+    .card-wrapper {
+      display: block;
+      margin: 0 auto;
+      text-align: center;
+      width: 80%;
+      p {
+        font-size: 14px;
+        font-weight: 400;
+        color: #5e6c84;
+        line-height: 20px;
+      }
+    }
+  }
+  .side-content {
+    .side-title {
+      .icon-trello {
+        color: #5e6c84;
+      
+        width: 32px;
+      }
+      span {
+        display: inline-block;
+        color: #5e6c84;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 16px;
+        margin-top: 16px;
+        flex: 1 1 auto;
+        margin: 0;
+        padding: 8px 0;
+      }
+    }
+  }
+}

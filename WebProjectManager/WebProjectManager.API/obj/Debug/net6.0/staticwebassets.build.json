@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "OiZMnpZbQgYf+fc33EHMtiD0Nb5flZakhZSkTwn8M38=",
+  "Source": "WebProjectManager.API",
+  "BasePath": "_content/WebProjectManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebProjectManager.API\\wwwroot",
+      "Source": "WebProjectManager.API",
+      "ContentRoot": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "BasePath": "_content/WebProjectManager.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\eb76c80a-e54f-41c7-a0be-b5522287cb2d.png",
+      "SourceId": "WebProjectManager.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "BasePath": "_content/WebProjectManager.API",
+      "RelativePath": "uploads/eb76c80a-e54f-41c7-a0be-b5522287cb2d.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Always",
+      "OriginalItemSpec": "wwwroot\\uploads\\eb76c80a-e54f-41c7-a0be-b5522287cb2d.png"
+    },
+    {
+      "Identity": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\edf1afa1-223b-44b7-9d2b-8889ddd166fe.png",
+      "SourceId": "WebProjectManager.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "BasePath": "_content/WebProjectManager.API",
+      "RelativePath": "uploads/edf1afa1-223b-44b7-9d2b-8889ddd166fe.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Always",
+      "OriginalItemSpec": "wwwroot\\uploads\\edf1afa1-223b-44b7-9d2b-8889ddd166fe.png"
+    }
+  ]
+}

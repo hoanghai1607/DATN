@@ -1,0 +1,23 @@
+.forgot-container {
+  .site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+    .card-title {
+    }
+    .ant-card {
+      width: 60%;
+      height: 460px;
+      margin: 0 auto;
+      position: relative;
+
+      p {
+        font-size: 17px;
+        line-height: 20px;
+      }
+      .button{
+         margin-left: 50%;
+      }
+
+    }
+  }
+}

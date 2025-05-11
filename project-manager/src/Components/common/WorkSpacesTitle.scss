@@ -1,0 +1,21 @@
+.work-space-title{
+    display: flex;
+    
+    h3{
+        align-items: center;
+        color: #5e6c84;
+        display: inline-block;
+
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        margin: 20px 10px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    a{
+        color: rgb(66, 82, 110);
+        margin-top: 20px;
+    }
+}

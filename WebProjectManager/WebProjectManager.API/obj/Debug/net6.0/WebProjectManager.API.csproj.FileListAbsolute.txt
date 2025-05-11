@@ -1,0 +1,177 @@
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.staticwebassets.runtime.json
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.exe
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.deps.json
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.runtimeconfig.json
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Dapper.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\EntityFramework.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Humanizer.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.CodeDom.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Twilio.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Models.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Models.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.csproj.AssemblyReference.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.AssemblyInfoInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.AssemblyInfo.cs
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.csproj.CoreCompileInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.MvcApplicationPartsAssemblyInfo.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\scopedcss\bundle\WebProjectManager.API.styles.css
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.csproj.CopyComplete
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\ref\WebProjectManager.API.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.genruntimeconfig.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\ref\WebProjectManager.API.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.staticwebassets.runtime.json
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.exe
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.deps.json
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.runtimeconfig.json
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.API.pdb
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Dapper.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\EntityFramework.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Humanizer.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\Twilio.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Models.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Common.pdb
+E:\Trello\WebProjectManager\WebProjectManager.API\bin\Debug\net6.0\WebProjectManager.Models.pdb
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.csproj.AssemblyReference.cache
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.AssemblyInfoInputs.cache
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.AssemblyInfo.cs
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.csproj.CoreCompileInputs.cache
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets\msbuild.WebProjectManager.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProjectManager.API.props
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProjectManager.API.props
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProjectManager.API.props
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\scopedcss\bundle\WebProjectManager.API.styles.css
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProje.582178DC.Up2Date
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\refint\WebProjectManager.API.dll
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.pdb
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\WebProjectManager.API.genruntimeconfig.cache
+E:\Trello\WebProjectManager\WebProjectManager.API\obj\Debug\net6.0\ref\WebProjectManager.API.dll

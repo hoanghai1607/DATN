@@ -1,0 +1,12 @@
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Release\net6.0\WebProjectManager.Common.deps.json
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Release\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Release\net6.0\ref\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Release\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.AssemblyInfoInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.AssemblyInfo.cs
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.csproj.CoreCompileInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\ref\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Release\net6.0\WebProjectManager.Common.csproj.AssemblyReference.cache

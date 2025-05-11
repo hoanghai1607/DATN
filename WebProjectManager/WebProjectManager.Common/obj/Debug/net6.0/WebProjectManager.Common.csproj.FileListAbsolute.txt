@@ -1,0 +1,24 @@
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.deps.json
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfoInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfo.cs
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.CoreCompileInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\ref\WebProjectManager.Common.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.AssemblyReference.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\ref\WebProjectManager.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.deps.json
+E:\Trello\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.Common\bin\Debug\net6.0\WebProjectManager.Common.pdb
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.AssemblyReference.cache
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfoInputs.cache
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.AssemblyInfo.cs
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.csproj.CoreCompileInputs.cache
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\refint\WebProjectManager.Common.dll
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\WebProjectManager.Common.pdb
+E:\Trello\WebProjectManager\WebProjectManager.Common\obj\Debug\net6.0\ref\WebProjectManager.Common.dll

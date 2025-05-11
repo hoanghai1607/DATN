@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\eb76c80a-e54f-41c7-a0be-b5522287cb2d.png",
+      "PackagePath": "staticwebassets\\uploads\\eb76c80a-e54f-41c7-a0be-b5522287cb2d.png"
+    },
+    {
+      "Id": "E:\\Trello\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\edf1afa1-223b-44b7-9d2b-8889ddd166fe.png",
+      "PackagePath": "staticwebassets\\uploads\\edf1afa1-223b-44b7-9d2b-8889ddd166fe.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebProjectManager.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebProjectManager.API.props",
+      "PackagePath": "build\\WebProjectManager.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebProjectManager.API.props",
+      "PackagePath": "buildMultiTargeting\\WebProjectManager.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebProjectManager.API.props",
+      "PackagePath": "buildTransitive\\WebProjectManager.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

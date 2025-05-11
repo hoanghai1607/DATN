@@ -1,0 +1,14 @@
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\bin\Release\net6.0\WebProjectManager.Models.deps.json
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\bin\Release\net6.0\WebProjectManager.Models.runtimeconfig.json
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\bin\Release\net6.0\WebProjectManager.Models.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\bin\Release\net6.0\ref\WebProjectManager.Models.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\bin\Release\net6.0\WebProjectManager.Models.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.csproj.AssemblyReference.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.AssemblyInfoInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.AssemblyInfo.cs
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.csproj.CoreCompileInputs.cache
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\ref\WebProjectManager.Models.dll
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.pdb
+D:\06. Drop\WebProjectManager\WebProjectManager.Models\obj\Release\net6.0\WebProjectManager.Models.genruntimeconfig.cache

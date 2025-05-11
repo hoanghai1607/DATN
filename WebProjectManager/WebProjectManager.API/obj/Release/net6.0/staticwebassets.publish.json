@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "CJlQr7rW9d06RiPmgsH6WJmr1tojzYGcAC99JiYa4CE=",
+  "Source": "WebProjectManager.API",
+  "BasePath": "_content/WebProjectManager.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebProjectManager.API\\wwwroot",
+      "Source": "WebProjectManager.API",
+      "ContentRoot": "D:\\06. Drop\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "BasePath": "_content/WebProjectManager.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\06. Drop\\WebProjectManager\\WebProjectManager.API\\wwwroot\\uploads\\240595294_1716008445271517_6689727047900739748_n.jpg",
+      "SourceId": "WebProjectManager.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\06. Drop\\WebProjectManager\\WebProjectManager.API\\wwwroot\\",
+      "BasePath": "_content/WebProjectManager.API",
+      "RelativePath": "uploads/240595294_1716008445271517_6689727047900739748_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Always",
+      "OriginalItemSpec": "wwwroot\\uploads\\240595294_1716008445271517_6689727047900739748_n.jpg"
+    }
+  ]
+}
