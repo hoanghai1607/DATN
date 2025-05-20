@@ -312,6 +312,13 @@ export default function Menu(props) {
                   </div>
                 )}
               </li>
+              <li
+                className="list-item"
+                onClick={() => navigator("/project-management")}
+                style={{ whiteSpace: "nowrap" }}
+              >
+                Project Management
+              </li>
               <li className="list-item">
                 <button className="btn-create" onClick={showModalCreate}>
                   Create

@@ -22,11 +22,12 @@ namespace WebProjectManager.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<IEnumerable<Tab>>> Get(Guid id)
         {
-            var data = await _context.Tabs.Where(x => x.ProjectId==id)
-                .Include(x => x.Cards.OrderBy(c=>c.Order))
-                    .ThenInclude(it => it.Tasks.OrderBy(d=>d.Order))
-                        
-
+            var data = await _context.Tabs.Where(x => x.ProjectId == id)
+                .Include(tab => tab.Cards.OrderBy(c => c.Order))
+                    .ThenInclude(card => card.Tasks.OrderBy(t => t.Order))
+                .Include(tab => tab.Cards.OrderBy(c => c.Order))
+                    .ThenInclude(card => card.CardUserMembers)
+                        .ThenInclude(cum => cum.MemberNavigation)
                 .ToListAsync();
             return Ok(data);
         }

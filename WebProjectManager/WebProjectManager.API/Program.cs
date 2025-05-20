@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 using WebProjectManager.Models.Entities;
 using WebProjectManager.Models.EF;
 using Microsoft.AspNetCore.Identity;
+using WebProjectManager.Common.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -59,6 +60,10 @@ builder.Services.AddDbContext<EFCoreDbContext>(options =>
               builder.Configuration.GetConnectionString("ConnectionString")));
 
 builder.Services.AddTransient<EFCoreDbContext>();
+
+// Register the email service
+builder.Services.AddScoped<IEmailService, EmailService>();
+
 builder.Services.AddIdentity<User, Role>(options =>
 {
     options.Password.RequiredLength = 3;

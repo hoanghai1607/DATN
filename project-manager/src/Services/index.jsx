@@ -38,10 +38,10 @@ export const apiClient = {
     return callApi("Users/ForgotPassword", "post", data);
   },
 
-  fetchApiGetUserID(idUser){
+  fetchApiGetUserID(idUser) {
     return callApi(`Users/GetById/${idUser}`);
   },
-  
+
   // update info user
   fetchApiUpdateUser(data) {
     return callApi("Users", "put", data);
@@ -77,12 +77,12 @@ export const apiClient = {
     return callApi(`Projects/${id}`);
   },
 
-  fetchApiGetNameBoard(name){
-    return callApi(`Projects/GetName/${name}`)
+  fetchApiGetNameBoard(name) {
+    return callApi(`Projects/GetName/${name}`);
   },
 
-  fetchApiGetProjectPerson(){
-    return callApi('Projects/UserProject');
+  fetchApiGetProjectPerson() {
+    return callApi("Projects/UserProject");
   },
 
   // Tabs
@@ -204,8 +204,7 @@ export const apiClient = {
     return callApi(`MemberProject/${id}`);
   },
 
-
-  // TaskMember 
+  // TaskMember
 
   fetApiCreateTaskUserMenber(TaskId, userId) {
     return callApi(`TaskUserMember/${TaskId}/${userId}`, "post");
@@ -219,4 +218,8 @@ export const apiClient = {
     return callApi(`TaskUserMember/${TaskId}`);
   },
 
+  // Remind card members
+  fetchApiRemindCardMembers(cardId) {
+    return callApi(`Cards/Remind/${cardId}`, "post");
+  },
 };
