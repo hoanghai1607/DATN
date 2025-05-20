@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import "./Menu.scss";
 import {
   Html5Outlined,
@@ -19,6 +19,7 @@ import {
 import GroundAvatar from "../../../Components/common/GroundAvatar";
 import { BACKGROUD_BOARD } from "../../../actions/dataBackgroud";
 import CreateBoardModal from "../../../Components/common/CreateBoardModal";
+import BoardWidgetMenu from "../../../Components/common/BoardWidgetMenu";
 
 export default function Menu(props) {
   const [isModalVisible, setIsModalVisible] = useState(false);
@@ -35,6 +36,15 @@ export default function Menu(props) {
   const [number, setNumber] = useState("");
   const [indexBG, setIndexBG] = useState(0);
   const [g63Value, setG63Value] = useState("Hãy tìm kiếm theo cách của bạn.");
+
+  // nam start
+  const [projectPerson, setProjectPerson] = useState([]);
+  // Add this near your other useState declarations
+  const [showWorkspaces, setShowWorkspaces] = useState(false);
+    const [showrecent, setShowRecents] = useState(false);
+  const workspaceRef = useRef(null);
+  const recentRef = useRef(null);
+  // end
 
   const navigator = useNavigate();
 
@@ -64,6 +74,54 @@ export default function Menu(props) {
         }
       });
     }
+  }, []);
+
+  useEffect(() => {
+    apiClient
+      .fetchApiGetProjectPerson()
+      .then((res) => {
+        if (res.data) {
+          setProjectPerson(res.data);
+          console.log("projectPerson", res.data);
+        } else {
+          // console.log("Fail....")
+        }
+      })
+      .catch((e) => {
+        // console.log(e);
+      });
+  }, []);
+
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (
+        workspaceRef.current &&
+        !workspaceRef.current.contains(event.target)
+      ) {
+        setShowWorkspaces(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
+
+    useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (
+        recentRef.current &&
+        !recentRef.current.contains(event.target)
+      ) {
+        setShowRecents(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
   }, []);
 
   const showModal = () => {
@@ -142,7 +200,7 @@ export default function Menu(props) {
   };
 
   const onChangePageBoard = (id) => {
-    window.location.replace(`/board/${id}/schedule`);
+    window.location.href = `/board/${id}/schedule`;
   };
 
   const showModalCreate = () => {
@@ -193,23 +251,66 @@ export default function Menu(props) {
         <div className="header__menu-left">
           <div className="menu-left__logo">
             <Link to="/">
-              
               <span className="logo">Trello</span>
             </Link>
           </div>
           <div className="menu-left__list">
             <ul className="list-dropdown">
-              <li className="list-item">
-                WorkSpaces <DownOutlined />
-                <div className={`list-sub`}>
-                  <h6 className="title-work">WorkSpaces </h6>
+              <li className="list-item" ref={workspaceRef}>
+                <div
+                  className="workspace-trigger"
+                  onClick={() => setShowWorkspaces(!showWorkspaces)}
+                  style={{ cursor: "pointer" }}
+                >
+                  WorkSpaces <DownOutlined />
                 </div>
+                {showWorkspaces && (
+                  <div className="work-space-container">
+                    {projectPerson?.length > 0 ? (
+                      projectPerson.map((i, _i) => (
+                        <BoardWidgetMenu
+                          key={i.id}
+                          id={i.id}
+                          title={i.name}
+                          avt={BACKGROUD_BOARD[i.background]}
+                          largeWidget={true}
+                        />
+                      ))
+                    ) : (
+                      <div className="no-workspaces">
+                        No workspaces available
+                      </div>
+                    )}
+                  </div>
+                )}
               </li>
-              <li className="list-item">
-                Recent <DownOutlined />
-                <div className={`list-sub`}>
-                  <h6 className="title-work">WorkSpaces </h6>
+              <li className="list-item"  ref={recentRef}>
+                <div
+                  className="workspace-trigger"
+                  onClick={() => setShowRecents(!showrecent)}
+                  style={{ cursor: "pointer" }}
+                >
+                  Recent <DownOutlined />
                 </div>
+                {showrecent && (
+                  <div className="work-space-container">
+                    {projectPerson?.length > 0 ? (
+                      projectPerson.map((i, _i) => (
+                        <BoardWidgetMenu
+                          key={i.id}
+                          id={i.id}
+                          title={i.name}
+                          avt={BACKGROUD_BOARD[i.background]}
+                          largeWidget={true}
+                        />
+                      ))
+                    ) : (
+                      <div className="no-workspaces">
+                        No workspaces available
+                      </div>
+                    )}
+                  </div>
+                )}
               </li>
               <li className="list-item">
                 <button className="btn-create" onClick={showModalCreate}>

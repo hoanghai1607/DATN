@@ -346,3 +346,35 @@ ul {
         }
     }
 }
+
+.work-space-container {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  min-width: 200px;
+  padding: 8px 0;
+    z-index: 100;
+  overflow: hidden;
+  opacity: 1;
+  
+    &.hidden {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.no-workspaces {
+  padding: 8px 16px;
+  color: #6b778c;
+}
+
+.workspace-trigger {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
