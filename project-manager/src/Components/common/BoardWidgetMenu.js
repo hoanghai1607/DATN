@@ -4,17 +4,20 @@ import { Input, Select } from "antd";
 import { BACKGROUD_BOARD } from "../../actions/dataBackgroud";
 import { useNavigate } from "react-router-dom";
 import "./BoardWidgetMenu.scss";
-function BoardWidgetMenu({largeWidget, avt, title, id}) {
-	const [background , setBackground] = useState(BACKGROUD_BOARD[0]);
-	const [indexBg, setIndexBg] = useState(0);
+function BoardWidgetMenu({ largeWidget, avt, title, id }) {
+  const [background, setBackground] = useState(BACKGROUD_BOARD[0]);
+  const [indexBg, setIndexBg] = useState(0);
 
-	const navigate = useNavigate();
-	  const handleClick = () => {
-        window.location.href = `/board/${id}/schedule`;
+  const navigate = useNavigate();
+  const handleClick = () => {
+    window.location.href = `/board/${id}/schedule`;
   };
 
-	return (
-		    <div className={`board-widget ${largeWidget ? 'large' : ''}`} onClick={handleClick}>
+  return (
+    <div
+      className={`board-widget ${largeWidget ? "large" : ""}`}
+      onClick={handleClick}
+    >
       <div className="board-thumbnail">
         <img src={avt} alt={title} />
       </div>
@@ -22,7 +25,7 @@ function BoardWidgetMenu({largeWidget, avt, title, id}) {
         <span className="board-title">{title}</span>
       </div>
     </div>
-	);
+  );
 }
 
 export default BoardWidgetMenu;

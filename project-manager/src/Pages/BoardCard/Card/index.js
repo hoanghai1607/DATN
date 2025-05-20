@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 import GroundAvatar from "../../../Components/common/GroundAvatar";
 import { apiClient } from "../../../Services";
 import ModalCard from "../ModalCard";
+import moment from "moment";
+import { ClockCircleOutlined } from "@ant-design/icons";
 
 const Card = (props) => {
   const { card } = props;
@@ -81,7 +83,21 @@ const Card = (props) => {
             onMouseDown={(e) => e.preventDefault()}
           />
         )}
-        {card.name}
+        <div style={{ display: "flex", flexDirection: "column" }}>
+          <span>{card.name}</span>
+          <span
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "4px",
+              fontSize: "12px",
+              color: "#8a8a8a",
+            }}
+          >
+            <ClockCircleOutlined />{" "}
+            {moment(card.timeExpiry).format("DD/MM/YYYY")}
+          </span>
+        </div>
         <div className="user-card">
           <GroundAvatar member={memberMoreOne} />
         </div>

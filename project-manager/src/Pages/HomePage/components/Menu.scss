@@ -3,7 +3,7 @@
     top: 0;
     left: 0;
     right: 0;
-    z-index: 1;
+    z-index: 99999999;
     background: #27aae3;
     height: 50px;
 
@@ -357,7 +357,6 @@ ul {
   z-index: 1000;
   min-width: 200px;
   padding: 8px 0;
-    z-index: 100;
   overflow: hidden;
   opacity: 1;
   
